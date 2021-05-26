@@ -5,4 +5,4 @@ rebase-practiceブランチで変更(rebaseコンフリクト用)
 rebase用
 stash練習用(2nd stash)
 github上で更新
-github上で再度更新
+localで更新
